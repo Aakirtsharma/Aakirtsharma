@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aakirtsharma
+- 👋 Hi, I’m @Aakirtsharma.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML,CSS & JS.
+- 🌱 I’m currently learning HTML,CSS & JS....
 - 📫 How to reach me aakirtsharma123@gmail.com
 
 <!---
