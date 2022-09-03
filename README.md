@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center"  width="450" src="https://github-readme-stats.vercel.app/api?username=aakirtsharma&show_icons=true&bg_color=151515&text_color=f5f5f5&locale=en" alt="aakirtsharma" /></p>
 
-<p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=aakirtsharma" alt="aakirtsharma" /></p>
